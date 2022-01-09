@@ -31,7 +31,7 @@ export class ProfileEditorComponent {
 
   updateProfile() {
     this.profileForm.patchValue({
-      firstName: 'Nancy',
+      firstName: 'Gokul',
       address: {
         street: '123 Drew Street'
       }
